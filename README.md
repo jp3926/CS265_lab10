@@ -5,3 +5,7 @@ This will also cause a conflict.
 
 This will cause a conflict.
  conflict-branch
+
+staged random text
+Staged change
+Remote branch change
